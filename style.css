@@ -1,0 +1,33 @@
+.zalsteksts {
+    color: green;
+    border-style: dashed;
+}
+
+#edgars123 {color: blue;
+font: large} 
+
+
+.ramitis{ 
+    border-style: groove;
+    border-color: brown;
+
+}
+
+#specialramitis{
+    border-style: dashed;
+    border-color: blue;
+    margin: 20px;
+    padding: 20px;
+    width: 50%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+ul li { 
+    font-style: italic;
+
+}
+ol li { 
+
+    text-decoration: underline;
+}
